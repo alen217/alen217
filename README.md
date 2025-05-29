@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @alen217....
+- 👀 I’m interested in Learning,Programing etc
+- 🌱 I’m currently learning Computer Science Engineering
+- 💞️ I’m looking to collaborate on Project ideas,Knowledge sharing
+- 📫 How to reach me *alendenny217@gmail.com*  **https://www.linkedin.com/in/alendenny**
+- ⚡ Fun fact: 
+
+<!---
+alen217/alen217 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
