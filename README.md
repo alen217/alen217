@@ -1,25 +1,11 @@
-<p align="center">
-  <img 
-    src="https://svg-banners.vercel.app/api?type=glitch&text1=I%20am%20Alen%20Denny&width=1000&height=160" 
-    alt="Hi, I am Alen Denny banner"
-  />
-</p>
-
-<h3 align="center">
-  FISAT | Kerala, India
-  
-</h3>
 
 <p align="center">
-  <a href="https://github.com/Akshay090/svg-banners" target="_blank">
-    <img 
-      src="https://svg-banners.vercel.app/api?type=luminance&text1=Engineering%20Student&width=1000&height=100"
-      alt="Luminance SVG Banner"
-    />
-  </a>
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=I%20am%20Alen%20Denny&width=1000&height=100" />
 </p>
 
+<h3 align="center">Final Year Engineering Student | FISAT, Kerala, India</h3>
 
+---
 
 ### 👨‍💻 About Me
 - 🔭 Currently focused on **strengthening core technical and problem-solving skills**
@@ -61,6 +47,7 @@
 </p>
 
 ---
+
 ### 📊 GitHub Statistics
 
 <p align="center">
@@ -83,8 +70,3 @@
     alt="GitHub streak stats"
   />
 </p>
-
-</p>
-
-
-⭐ *Always open to learning, building, and contributing to meaningful software projects.*
