@@ -1,14 +1,24 @@
 <p align="center">
   <img 
-    src="https://svg-banners.vercel.app/api?type=glitch&text1=I%20am%20Alen%20Denny&width=1000&height=200" 
+    src="https://svg-banners.vercel.app/api?type=glitch&text1=I%20am%20Alen%20Denny&width=1000&height=160" 
     alt="Hi, I am Alen Denny banner"
   />
 </p>
 
-
 <h3 align="center">
-  Final Year Engineering Student | FISAT, Kerala, India
+  FISAT | Kerala, India
+  
 </h3>
+
+<p align="center">
+  <a href="https://github.com/Akshay090/svg-banners" target="_blank">
+    <img 
+      src="https://svg-banners.vercel.app/api?type=luminance&text1=Engineering%20Student&width=1000&height=100"
+      alt="Luminance SVG Banner"
+    />
+  </a>
+</p>
+
 
 
 ### 👨‍💻 About Me
@@ -51,20 +61,30 @@
 </p>
 
 ---
-
 ### 📊 GitHub Statistics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alen217&show_icons=true&locale=en&layout=compact" />
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=alen217&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800" 
+    alt="Alen Denny GitHub stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alen217&show_icons=true&locale=en" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alen217&layout=compact&langs_count=6&cache_seconds=1800" 
+    alt="Top languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alen217" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=alen217&cache_seconds=1800" 
+    alt="GitHub streak stats"
+  />
 </p>
 
----
+</p>
+
 
 ⭐ *Always open to learning, building, and contributing to meaningful software projects.*
